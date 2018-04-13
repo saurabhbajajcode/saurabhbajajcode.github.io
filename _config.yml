@@ -1,0 +1,103 @@
+title: Saurabh Bajaj
+name: Saurabh Bajaj
+email: saurabhbsd@gmail.com
+description: >
+  Saurabh is an experienced iOS application developer currently working in Pune, India. He likes to come up with simple solutions to difficult problems. Code quality, maintainability and pragmatism are his core programming principles. Being an iOS developer, he gives great attention to the UX and UI of the project.
+
+
+parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
+parallax_image_two: assets/images/startup3.jpg
+
+# Settings for the porfolio section
+
+portfolio_heading: Portfolio
+portfolio_type: cards #cards or carousel
+
+project_one: "Brew Survey"
+project_one_description: One Software for Offline Surveys, Mobile Forms, Data Collection & Lead Capture
+project_one_url: https://itunes.apple.com/us/app/brew-survey-offline-feedback/id1207197946?mt=8
+project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
+
+project_two: Handwerker Station
+project_two_description: Handwerker station helps craftsmen to order manufacturer’s products from their connected shops.  This app allows user to scan a QR code, get product details, add the product to cart and then place the order. I used native function api to scan QR code and received appreciation from my manager and client for it's performance.
+project_two_url: https://itunes.apple.com/us/app/handwerkerstation/id1247972146?mt=8
+project_two_icon: photo_camera
+
+project_three: Naki
+project_three_description: Naki is an innovative tech based laundry service. An end user can schedule pick and delivery time for laundry. The user can select different pick up and delivery addresses for laundry.
+project_three_url: https://itunes.apple.com/in/app/naki-laundry/id621934237?mt=8
+project_three_icon: photo_camera
+
+project_four: Mobicheck
+project_four_description: Mobicheck allows user to check if a mobile device has been marked as stolen or blacklisted by a mobile operator before you trade the device. 
+project_four_url: https://itunes.apple.com/us/app/mobicheck/id1057556237?mt=8
+project_four_icon: photo_camera
+
+# Skill icons from https://konpa.github.io/devicon/
+
+skills:
+  - name: amazonwebservices
+  - name: apple
+  - name: bitbucket
+  - name: bootstrap
+  - name: c
+  - name: chrome
+  - name: cplusplus
+  - name: css3
+  - name: firefox
+  - name: git
+  - name: github
+  - name: gitlab
+  - name: google
+  - name: heroku
+  - name: html5
+  - name: javascript
+  - name: linux
+  - name: mysql
+  - name: nodejs
+  - name: oracle
+  - name: photoshop
+  - name: postgresql
+  - name: python
+  - name: rails
+  - name: react
+  - name: ruby
+  - name: safari
+  - name: slack
+  - name: sourcetree
+  - name: ssh
+  - name: swift
+  - name: travis
+  - name: trello
+  - name: twitter
+  - name: ubuntu
+  - name: vim
+  - name: windows8
+  - name: wordpress
+
+icon_size: 50 # font-size of icons in px
+colored: colored # Leave blank for black and white icons
+
+project_button: App Store Link
+
+github: https://github.com/saurabhbajajcode
+medium: https://medium.com/@saurabhbajaj_30171
+
+baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
+url: http://localhost:4000/ # The URL of your site
+
+# Google tracking, if both are filled, tag manager will prevail. Set up GA through GTM in that case
+tag_manager_id: # This looks something like GTM-XXXXXXX
+google_analytics_tracking_id: # This looks something like UA-000000000-0 Head over to https://analytics.google.com/ to setup.
+
+cookie_accept_message: Thanks! # The pop-up dialog that appears after accepting the cookie notice.
+
+syntax_highlighting: true # include the css for syntax highlighting
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-minifier
