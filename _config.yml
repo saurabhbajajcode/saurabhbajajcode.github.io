@@ -101,3 +101,21 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-minifier
+
+owner: 
+  name: Saurabh Bajaj
+  email: saurabhbsd@gmail.com
+  # social networking links
+  github: https://github.com/saurabhbajajcode
+  linkedin: https://www.linkedin.com/in/saurabhbajaj02/
+  medium: https://medium.com/@saurabhbajaj_30171
+  twitter: https://twitter.com/saurabhbajaj91
+  twitter_handle: saurabhbajaj91
+  stackexchange: https://stackoverflow.com/users/4284063/saurabh-bajaj?tab=profile
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-117634179-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
