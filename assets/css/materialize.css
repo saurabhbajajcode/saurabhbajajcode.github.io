@@ -1012,11 +1012,11 @@
 }
 
 .teal.lighten-2 {
-  background-color: #ffff !important;
+  background-color: #FFFFFF !important;
 }
 
 .teal-text.text-lighten-2 {
-  color: #ffff !important;
+  color: #FFFFFF !important;
 }
 
 .teal.lighten-1 {
@@ -4521,7 +4521,7 @@ h5 {
   font-size: 1.64rem;
   line-height: 110%;
   margin: 0.82rem 0 0.656rem 0;
-  color: #ffff
+  color: #FFFFFF
 }
 
 h6 {
@@ -8604,7 +8604,7 @@ input[type=range]:focus::-ms-fill-upper {
  * The box contains all the picker contents.
  */
 .picker__box {
-  background: #ffffff;
+  background: #FFFFFF;
   display: table-cell;
   vertical-align: middle;
 }
@@ -8864,7 +8864,7 @@ input[type=range]:focus::-ms-fill-upper {
   -webkit-transform: scale(0.75);
           transform: scale(0.75);
   background: #0089ec;
-  color: #ffffff;
+  color: #FFFFFF;
 }
 
 .picker__day--disabled,
