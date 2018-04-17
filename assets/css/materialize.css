@@ -2879,7 +2879,6 @@ ul.staggered-list li {
 }
 
 .page-footer {
-  padding-top: 20px;
   color: #fff;
   background-color: #cfd8dc;
 }
@@ -2895,7 +2894,6 @@ ul.staggered-list li {
   -webkit-align-items: center;
       -ms-flex-align: center;
           align-items: center;
-  padding: 10px 0px;
   color: #000000;
   background-color: rgba(51, 51, 51, 0.08);
 }
@@ -9423,4 +9421,8 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
 
 .main-description {
   font-weight: 200;
+}
+
+.p-5 {
+  padding: 5px;
 }
