@@ -81,7 +81,7 @@ colored: colored # Leave blank for black and white icons
 project_button: App Store Link
 
 github: https://github.com/saurabhbajajcode
-medium: https://medium.com/@saurabhbajaj_30171
+medium: https://medium.com/@saurabhbajaj02
 
 baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
 url: http://localhost:4000/ # The URL of your site
