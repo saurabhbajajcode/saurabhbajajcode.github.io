@@ -36,10 +36,10 @@ project_four_icon: photo_camera
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: amazonwebservices
   - name: apple
+  - name: amazonwebservices
   - name: bitbucket
-  - name: bootstrap
+#   - name: bootstrap
   - name: c
   - name: chrome
   - name: cplusplus
@@ -55,25 +55,25 @@ skills:
   - name: linux
   - name: mysql
   - name: nodejs
-  - name: oracle
+#   - name: oracle
   - name: photoshop
-  - name: postgresql
+#   - name: postgresql
   - name: python
   - name: rails
-  - name: react
+#   - name: react
   - name: ruby
   - name: safari
   - name: slack
   - name: sourcetree
   - name: ssh
   - name: swift
-  - name: travis
+#   - name: travis
   - name: trello
   - name: twitter
   - name: ubuntu
   - name: vim
   - name: windows8
-  - name: wordpress
+#   - name: wordpress
 
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
