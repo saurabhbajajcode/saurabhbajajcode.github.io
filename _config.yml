@@ -2,7 +2,7 @@ title: Saurabh Bajaj
 name: Saurabh Bajaj
 email: saurabhbsd@gmail.com
 description: >
-  Saurabh is an experienced iOS application developer currently working in Pune, India. He likes to come up with simple solutions to difficult problems. Code quality, maintainability and pragmatism are his core programming principles. Being an iOS developer, he gives great attention to the UX and UI of the project.
+  Saurabh is an experienced iOS application engineer currently working in Pune, India. He likes to come up with simple solutions to difficult problems. Code quality, maintainability and pragmatism are his core programming principles. Being an iOS engineer, he gives great attention to the UX and UI of the project.
 
 url: "https://saurabhbajajcode.github.io"
 parallax_image_one: assets/images/contact2.jpg # These are the images used for the parallax background
@@ -53,9 +53,9 @@ skills:
   - name: heroku
   - name: html5
   - name: javascript
-  - name: linux
+  # - name: linux
   - name: mysql
-  - name: nodejs
+  # - name: nodejs
 #   - name: oracle
   - name: photoshop
 #   - name: postgresql
