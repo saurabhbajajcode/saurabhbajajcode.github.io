@@ -19,17 +19,18 @@ project_one_url: https://itunes.apple.com/us/app/brew-survey-offline-feedback/id
 project_one_icon: location_on # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
 
 project_two: Handwerker Station
-project_two_description: Handwerker station helps craftsmen to order manufacturer’s products from their connected shops.  This app allows user to scan a QR code, get product details, add the product to cart and then place the order. I used native function api to scan QR code and received appreciation from my manager and client for it's performance.
+project_two_description: Handwerker station helps craftsmen to order manufacturer’s products from their connected shops. This app allows user to scan a QR code, get product details, add the product to cart and then place the order. I used native function api to scan QR code and received appreciation from my manager and client for it's performance.
 project_two_url: https://itunes.apple.com/us/app/handwerkerstation/id1247972146?mt=8
 project_two_icon: photo_camera
 
-project_three: Naki
-project_three_description: Naki is an innovative tech based laundry service. An end user can schedule pick and delivery time for laundry. The user can select different pick up and delivery addresses for laundry.
-project_three_url: https://itunes.apple.com/in/app/naki-laundry/id621934237?mt=8
+project_three: Sell.do
+project_three_description: It's a next generation real estate sales tool. Sell.Do is fast, beautiful, easy & makes conducting follow-ups/site visits a breeze. Above all, it has a more powerful notification system.
+Sell.do helps the real estate industry to get the best out of their marketing efforts, optimize cost and assist their sales team to achieve targets in almost no time.
+project_three_url: https://apps.apple.com/us/app/sell-do/id1225486345
 project_three_icon: photo_camera
 
 project_four: Mobicheck
-project_four_description: Mobicheck allows user to check if a mobile device has been marked as stolen or blacklisted by a mobile operator before you trade the device. 
+project_four_description: Mobicheck allows user to check if a mobile device has been marked as stolen or blacklisted by a mobile operator before you trade the device.
 project_four_url: https://itunes.apple.com/us/app/mobicheck/id1057556237?mt=8
 project_four_icon: photo_camera
 
