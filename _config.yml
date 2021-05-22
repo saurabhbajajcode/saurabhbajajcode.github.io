@@ -82,7 +82,7 @@ colored: colored # Leave blank for black and white icons
 project_button: App Store Link
 
 github: https://github.com/saurabhbajajcode
-medium: https://medium.com/@saurabhbajajcode
+medium: https://medium.com/@saurabhbajajcode/about
 
 baseurl: # If your site is located at /blog or /home, change it here, otherwise leave it empty
 url: http://localhost:4000/ # The URL of your site
@@ -109,7 +109,7 @@ owner:
   # social networking links
   github: https://github.com/saurabhbajajcode
   linkedin: https://www.linkedin.com/in/saurabhbajajcode/
-  medium: https://medium.com/@saurabhbajajcode
+  medium: https://medium.com/@saurabhbajajcode/about
   twitter: https://twitter.com/saurabhbajaj91
   twitter_handle: saurabhbajaj91
   stackexchange: https://stackoverflow.com/users/4284063/saurabh-bajaj?tab=profile
